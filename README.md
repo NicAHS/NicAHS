@@ -8,7 +8,7 @@ Desarrollo soluciones web orientadas a resolver problemas reales, automatizar pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-NicAHS-181717?style=for-the-badge&logo=github)](https://github.com/NicAHS)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.hinojosa.salazar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicahs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicahs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicahs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicahs)
 
 </div>
 
