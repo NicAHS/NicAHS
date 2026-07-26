@@ -8,7 +8,7 @@ Desarrollo soluciones web orientadas a resolver problemas reales, automatizar pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-NicAHS-181717?style=for-the-badge&logo=github)](https://github.com/NicAHS)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.hinojosa.salazar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agregar_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicahs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicahs)
 
 </div>
 
@@ -27,7 +27,6 @@ Me interesa construir software que no solo funcione técnicamente, sino que tamb
 - 🔐 Tengo experiencia implementando autenticación, 2FA, roles y permisos, recuperación segura de contraseñas, rate limiting y auditoría.
 - 🧪 Estoy fortaleciendo mis conocimientos en **QA manual y automatización**, con foco en Selenium, Java, Postman y SQL.
 - 📚 Me interesa seguir aprendiendo sobre arquitectura de software, calidad, automatización y análisis de datos.
-- 📍 Melipilla, Chile.
 
 ---
 
